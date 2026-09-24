@@ -49,6 +49,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="a7046b6532e493b2" />
         <meta charSet="utf-8" />
         <meta name="language" content="Russian" />
         <meta name="revisit-after" content="7 days" />
